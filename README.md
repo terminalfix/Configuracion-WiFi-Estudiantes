@@ -31,7 +31,7 @@ Los principales parámetros se encuentran al comienzo del archivo `.bat`:
 
 ```bat
 set "SSID=Estudiantes"
-set "PASSWORD=Escuelas_2025"
+set "PASSWORD=XXXXXXXXXX"
 
 set "DNS1=185.228.168.168"
 set "DNS2=185.228.169.168"
