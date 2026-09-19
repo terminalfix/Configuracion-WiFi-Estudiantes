@@ -1,0 +1,1 @@
+# Equipos-Escolares-R7-Configuracion-WiFi-Estudiantes
