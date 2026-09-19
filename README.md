@@ -20,10 +20,8 @@ El script configura automáticamente la red institucional **`Estudiantes`**, est
 ## Requisitos
 
 * Windows 10.
-* Adaptador Wi-Fi funcional.
-* PowerShell disponible.
 * Privilegios de administrador.
-* Acceso a la red inalámbrica `Estudiantes`.
+* Acceso a la red inalámbrica guardada previamente `Estudiantes`.
 
 ## Configuración
 
