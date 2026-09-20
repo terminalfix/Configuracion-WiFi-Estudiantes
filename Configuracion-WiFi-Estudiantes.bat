@@ -14,7 +14,7 @@ echo.
 :: =========================================================
 
 set "SSID=Estudiantes"
-set "PASSWORD=Escuelas_2025"
+set "PASSWORD=XXXXXXXXXX"
 
 :: DNS CleanBrowsing Family
 set "DNS1=185.228.168.168"
